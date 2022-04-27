@@ -1,0 +1,37 @@
+Salesforce Apex Coding
+
+Basic Program to declare Data Types
+
+Coding :
+
+  public class Datatypes 
+{
+    public Static void variables()
+    {
+        String Name ='Saravana';
+        System.debug('String -> Name = '+Name);
+                     
+        String Department = 'MCA';
+        System.debug('String -> Department = '+Department);
+                     
+        Integer Regno = 128;
+        System.debug('Integer -> Reg No = '+Regno);
+                     
+        Boolean ClassAttended = true;
+        System.debug('Boolean -> Class Attended = '+ClassAttended);
+        
+        Decimal Cgpa = 8.6;
+        System.debug('Decimal -> CGPA = '+Cgpa);
+        
+        Double Percentage = 437/5;
+        System.debug('Double -> Percentage = '+Percentage);
+        
+        Long Collegeincome = 250000000L;
+        System.debug('Boolean -> College Income = '+Collegeincome);         
+      }
+                     
+}
+
+To Execute :
+
+Datatypes.variables();
