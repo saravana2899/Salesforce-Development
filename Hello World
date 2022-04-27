@@ -5,7 +5,7 @@ Salesforce Apex Coding
         Basic Program to Print Hello World
         
 --------------------------------------------------------
-Coding : Using Static
+Coding 1: Using Static
 
 public class Helloworld 
 {
@@ -16,13 +16,15 @@ public class Helloworld
 
 }
 
+--------------------------------------------------------
+
 To Execute :
 
 Helloworld.sample();
 
 --------------------------------------------------------
 
-Coding : Calling Function using Object
+Coding 2: Calling Function using Object
 
 public class Helloworld2 
 {
@@ -32,8 +34,11 @@ public class Helloworld2
     }
 }
 
+--------------------------------------------------------
+
 To Execute :
 
 Helloworld2 obj = new Helloworld2();
 obj.sample2();
+
 --------------------------------------------------------
