@@ -1,0 +1,52 @@
+Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+            Arithmetic Operators in Apex Coding
+          
+----------------------------------------------------------------
+
+Coding :
+
+public class Arithmeticoperation 
+{
+    public static void Addition()
+    {
+        Integer a = 5, b = 10, C;
+        c = a+b;
+        System.debug('Addition = '+c);
+    }
+    
+    public static void Subtraction()
+    {
+        Integer a = 15, b = 10, C;
+        c = a-b;
+        System.debug('Subtraction = '+c);
+    }
+    
+    public static void Multiplication()
+    {
+        Integer a = 4, b = 2, C;
+        c = a*b;
+        System.debug('Multiplication = '+c);
+    }
+    
+    public static void Division()
+    {
+        Integer a = 6, b = 3, C;
+        c = a/b;
+        System.debug('Division = '+c);
+    }
+
+}
+
+----------------------------------------------------------------
+
+To Execute :
+
+Arithmeticoperation.Addition();
+Arithmeticoperation.Subtraction();
+Arithmeticoperation.Multiplication();
+Arithmeticoperation.Division();
+
+----------------------------------------------------------------
