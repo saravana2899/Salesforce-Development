@@ -1,0 +1,26 @@
+            Salesforce Apex Coding
+
+--------------------------------------------------------
+
+        Basic Program to Print Hello World
+
+--------------------------------------------------------
+
+Coding 2: Calling Function using Object
+
+public class Helloworld2 
+{
+    public void sample2()
+    {
+        System.debug('Hello World!!');
+    }
+}
+
+--------------------------------------------------------
+
+To Execute :
+
+Helloworld2 obj = new Helloworld2();
+obj.sample2();
+
+--------------------------------------------------------
