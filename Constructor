@@ -14,3 +14,11 @@ public Constructor()
     system.debug('Hi there iam using constructor');
 }
 }
+
+----------------------------------------------------------------
+
+To Execute :
+
+Constructor obj = new Constructor();
+
+----------------------------------------------------------------
