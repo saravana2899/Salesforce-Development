@@ -1,0 +1,43 @@
+                  Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+     Arithmetic Operators using Single Input in Apex Coding
+          
+----------------------------------------------------------------
+
+Coding :
+
+public class arithmetic 
+{
+    public static void arithmeticoperation()
+    {
+        Integer a= 400;
+        Integer b = 20;
+        
+        Integer sum = a + b;
+        system.debug('Sum' +sum);
+        
+        Integer sub = a - b;
+        system.debug('Sub' +sub);
+        
+        Integer multiply = a * b;
+        system.debug('Multiply' +multiply);    
+        
+        Integer divide = a / b;
+        system.debug('Divide' +divide);
+        
+        Integer modulus = math.mod(a,b);
+        system.debug('Modulus' +modulus);
+        
+    }   
+    
+}
+
+----------------------------------------------------------------
+
+To Execute :
+
+arithmetic.arithmeticoperation();
+
+----------------------------------------------------------------
