@@ -1,4 +1,14 @@
-public class Genericobject
+                   Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+                Generic SObject in Apex Coding
+          
+----------------------------------------------------------------
+
+Coding :
+
+public class Genericsobject
 {
 public static void main()
 {
@@ -7,3 +17,11 @@ public static void main()
     insert s1;
     }
 }
+
+----------------------------------------------------------------
+
+To Execute :
+
+Genericsobject.main();
+
+----------------------------------------------------------------
