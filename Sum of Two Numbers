@@ -1,4 +1,12 @@
-public class addition 
+                    Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+     Sum of Two Numbers using Apex Coding
+          
+----------------------------------------------------------------
+
+Coding :public class addition 
 {
     public static void twonumber()
     {
