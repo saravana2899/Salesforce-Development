@@ -2,11 +2,13 @@
 
 ----------------------------------------------------------------          
           
-     Sum of Two Numbers using Apex Coding
+            Sum of Two Numbers using Apex Coding
           
 ----------------------------------------------------------------
 
-Coding :public class addition 
+Coding :
+
+public class addition 
 {
     public static void twonumber()
     {
@@ -20,6 +22,10 @@ Coding :public class addition
 
 }
 
+----------------------------------------------------------------
+
 To Execute :
 
 addition.twonumber();
+
+----------------------------------------------------------------
