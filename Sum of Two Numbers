@@ -1,0 +1,17 @@
+public class addition 
+{
+    public static void twonumber()
+    {
+        integer a = 5, b = 10, c;
+        
+        c = a + b;
+        
+        system.debug('Sum Of Two Numbers:' +c);
+        
+    }
+
+}
+
+To Execute :
+
+addition.twonumber();
