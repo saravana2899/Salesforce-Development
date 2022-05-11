@@ -8,7 +8,8 @@
 
 Coding :
 
-public class Constructor {
+public class Constructor 
+{
 public Constructor()
 {
     system.debug('Hi there iam using constructor');
