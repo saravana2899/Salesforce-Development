@@ -1,3 +1,11 @@
+                  Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+                Odd or Even in Apex Coding
+          
+----------------------------------------------------------------
+
 public class number 
 {
     public static void oddoreven()
@@ -14,4 +22,3 @@ public class number
     }
 
 }
-
