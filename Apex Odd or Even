@@ -1,0 +1,17 @@
+public class number 
+{
+    public static void oddoreven()
+    {
+        integer a=10;
+        if(math.mod(a, 2)==0)
+        {
+            system.debug('The Number Is Even :' +a);
+        }
+        else
+        {
+            system.debug('The Number Is Even', +a );
+        }
+    }
+
+}
+
