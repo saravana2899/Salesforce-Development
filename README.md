@@ -38,4 +38,6 @@
 
 [**APEX SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/559b9d54e04ca7574053c650c5afd83cdebb7fb9/SObject)
 
+[**APEX SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/312a5ef6c1d74dd8c1709c099365714c44f7f5ea/Generic%20Sobject)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
