@@ -1,6 +1,6 @@
 # Salesforce-Development
 
-<h2><center> Simple Apex Coding Learning </h2>
+<h2><center> Simple Apex Coding Learning </center></h2>
   
 [**APEX HELLO WORLD**](https://github.com/saravana2899/Salesforce-Development/blob/e03781517517092bcf7f0635ac006c5f7f7d67a6/Hello%20World)
 
@@ -40,4 +40,3 @@
 [**APEX GENERIC SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/312a5ef6c1d74dd8c1709c099365714c44f7f5ea/Generic%20Sobject)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</center>
