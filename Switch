@@ -22,47 +22,47 @@ public class Month
             }
             when 'Feburary'
             {
-                system.debug('Month is January');
+                system.debug('Month is Feburary');
             }
             when 'March'
             {
-                system.debug('Month is January');
+                system.debug('Month is March');
             }
             when 'April'
             {
-                system.debug('Month is January');
+                system.debug('Month is April');
             }
             when 'May'
             {
-                system.debug('Month is January');
+                system.debug('Month is May');
             }
             when 'June'
             {
-                system.debug('Month is January');
+                system.debug('Month is June');
             }
             when 'July'
             {
-                system.debug('Month is January');
+                system.debug('Month is July');
             }
             when 'August'
             {
-                system.debug('Month is January');
+                system.debug('Month is August');
             }
             when 'September'
             {
-                system.debug('Month is January');
+                system.debug('Month is September');
             }
             when 'October'
             {
-                system.debug('Month is January');
+                system.debug('Month is October');
             }
             when 'November'
             {
-                system.debug('Month is January');
+                system.debug('Month is November');
             }
             when 'December'
             {
-                system.debug('Month is January');
+                system.debug('Month is December');
             }
             when else
             {
@@ -70,5 +70,4 @@ public class Month
             }
         }
     }
-    
 }
