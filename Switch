@@ -1,3 +1,13 @@
+                   Salesforce Apex Coding
+
+----------------------------------------------------------------          
+          
+                   Switch in Apex Coding
+          
+----------------------------------------------------------------
+
+Coding :
+
 public class Month 
 {
     public static void Select()
@@ -26,23 +36,23 @@ public class Month
             {
                 system.debug('Month is January');
             }
-            when 'May'
+            when 'June'
             {
                 system.debug('Month is January');
             }
-            when 'May'
+            when 'July'
             {
                 system.debug('Month is January');
             }
-            when 'May'
+            when 'August'
             {
                 system.debug('Month is January');
             }
-            when 'May'
+            when 'September'
             {
                 system.debug('Month is January');
             }
-            when 'May'
+            when 'October'
             {
                 system.debug('Month is January');
             }
@@ -50,7 +60,6 @@ public class Month
             {
                 system.debug('Month is January');
             }
-
             when 'December'
             {
                 system.debug('Month is January');
@@ -63,8 +72,3 @@ public class Month
     }
     
 }
-======================================================
-TO EXECUTE OUTPUT USE FOLLOWING COMMAND
-
-basic.base();
-======================================================
