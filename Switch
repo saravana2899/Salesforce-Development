@@ -1,0 +1,70 @@
+public class Month 
+{
+    public static void Select()
+    {
+        String Gender = 'August';
+        
+        switch on Gender
+        {
+            when 'January'
+            {
+                system.debug('Month is January');
+            }
+            when 'Feburary'
+            {
+                system.debug('Month is January');
+            }
+            when 'March'
+            {
+                system.debug('Month is January');
+            }
+            when 'April'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'May'
+            {
+                system.debug('Month is January');
+            }
+            when 'November'
+            {
+                system.debug('Month is January');
+            }
+
+            when 'December'
+            {
+                system.debug('Month is January');
+            }
+            when else
+            {
+                system.debug('Invalid');
+            }
+        }
+    }
+    
+}
+======================================================
+TO EXECUTE OUTPUT USE FOLLOWING COMMAND
+
+basic.base();
+======================================================
