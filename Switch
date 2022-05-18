@@ -12,9 +12,9 @@ public class Month
 {
     public static void Select()
     {
-        String Gender = 'August';
+        String Month = 'August';
         
-        switch on Gender
+        switch on Month
         {
             when 'January'
             {
