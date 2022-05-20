@@ -8,9 +8,9 @@
 
 Coding :
 
-public class simple 
+public class Simple 
 {
-    public static void interest()
+    public static void Interest()
     {
         integer P = 50000;
         integer Q = 10;
@@ -21,3 +21,10 @@ public class simple
     }
 
 }
+----------------------------------------------------------------
+
+To Execute :
+
+Simple.Interest();
+
+----------------------------------------------------------------
