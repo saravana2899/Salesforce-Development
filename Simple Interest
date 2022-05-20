@@ -1,0 +1,13 @@
+public class simple 
+{
+    public static void interest()
+    {
+        integer P = 50000;
+        integer Q = 10;
+        integer R = 5;
+        integer I;
+        Intrest = (P*Q*R)/100;
+        system.debug('The Simple Interest is : ' +I);
+    }
+
+}
