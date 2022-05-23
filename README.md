@@ -35,8 +35,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[**APEX SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/559b9d54e04ca7574053c650c5afd83cdebb7fb9/SObject)
-
-[**APEX GENERIC SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/312a5ef6c1d74dd8c1709c099365714c44f7f5ea/Generic%20Sobject)
+[**APEX SOBJECT**](https://github.com/saravana2899/Salesforce-Development/blob/fc85ee90740f64f4db2c827d881059956f9443d3/Sum%20of%20Two%20Numbers)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
