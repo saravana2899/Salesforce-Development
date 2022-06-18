@@ -1,0 +1,26 @@
+public class Sample {
+    public static void main()
+    {
+        Integer i =123;
+        System.debug('Integer = ' +i);
+        
+        String s ='saravana';
+        System.debug('String = ' +s);
+        
+        Long l =345678901945L;
+        System.debug('Long = ' +l);
+        
+        Boolean b = true;
+        System.debug('Boolean = b '+b);
+        
+        Decimal d = 2.34;
+        System.debug('Decimal = '+s);
+        
+        DateTime dt = DateTime.newInstance(2022,06,18, 11,14,36);
+        System.debug('Date Time = '+dt);
+        
+        Id rid = '0015j00000YT353AAD';
+        System.debug('ID = '+rid);
+    }
+
+}
